@@ -1,5 +1,7 @@
 # Índice de Requerimientos
 
+Repositorio con el protocolo de pruebas para la validación de proveedores de servicios de nube pública (CSP). Contiene el índice de los 17 requerimientos establecidos y la documentación asociada para su verificación.
+
 1. [Acceso al portal del CSP con doble factor de autenticación](#)
 2. [Procedimiento para casos de soporte técnico](#)
 3. [Disponibilidad de documentación y catálogo de servicios](#)
