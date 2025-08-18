@@ -2,10 +2,10 @@
 
 Repositorio con el protocolo de pruebas para la validación de proveedores de servicios de nube pública (CSP). Contiene el índice de los 17 requerimientos establecidos y la documentación asociada para su verificación.
 
-1. [Acceso al portal del CSP con doble factor de autenticación](#)
-2. [Procedimiento para casos de soporte técnico](#)
-3. [Disponibilidad de documentación y catálogo de servicios](#)
-4. [Aprovisionar 100 servidores virtuales en 15 minutos](#)
+1. [Acceso al portal del CSP con doble factor de autenticación](https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta)
+2. [Procedimiento para casos de soporte técnico](https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta)
+3. [Disponibilidad de documentación y catálogo de servicios](https://cloud.ibm.com/docs)
+4. [Aprovisionar 100 servidores virtuales en 15 minutos]()
 5. [Aprovisionar una base de datos y realizar operaciones CRUD](#)
 6. [Demostración de balanceo de carga y reporte](#)
 7. [Configuración de puertos para 3 grupos de recursos](#)
