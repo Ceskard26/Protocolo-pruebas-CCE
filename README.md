@@ -7,7 +7,7 @@ Repositorio con el protocolo de pruebas para la validación de proveedores de se
 3. [Disponibilidad de documentación y catálogo de servicios](https://cloud.ibm.com/docs)
 4. [Aprovisionar 100 servidores virtuales en menos de 15 minutos](https://github.com/Ceskard26/Protocolo-pruebas-CCE/tree/main/Creacion-de-varias-VSI-en-IBMCloud-con-terraform)
 5. [Aprovisionar una base de datos y realizar operaciones CRUD](https://github.com/Ceskard26/Protocolo-pruebas-CCE/tree/main/Aprovisionar%20una%20base%20de%20datos%20y%20realizar%20operaciones%20CRUD)
-6. [Demostración de balanceo de carga y reporte](#)
+6. [Demostración de balanceo de carga y reporte](https://github.com/emeloibmco/VPC-balanceo-de-carga)
 7. [Configuración de puertos para 3 grupos de recursos](#)
 8. [Creación de una subred en los servidores aprovisionados](#)
 9. [Crear un volumen de almacenamiento de 100 GB con diferentes optimizaciones](#)
